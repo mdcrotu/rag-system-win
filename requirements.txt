@@ -1,0 +1,18 @@
+﻿# Core RAG dependencies
+pymupdf
+sentence-transformers
+chromadb
+ollama
+
+# Data processing
+numpy
+pandas
+
+# Utilities
+python-dotenv
+tqdm
+colorama
+
+# Optional: For advanced PDF processing
+pdfplumber
+pypdf

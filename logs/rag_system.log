@@ -1,0 +1,16 @@
+2025-08-02 17:09:07,432 - INFO - Use pytorch device_name: cpu
+2025-08-02 17:09:07,435 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 17:09:09,051 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-08-02 17:09:11,215 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 17:09:11,609 - INFO - RAG system initialized successfully
+2025-08-02 17:09:55,017 - INFO - HTTP Request: GET https://chroma-onnx-models.s3.amazonaws.com/all-MiniLM-L6-v2/onnx.tar.gz "HTTP/1.1 200 OK"
+2025-08-02 17:10:31,792 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-02 17:11:38,739 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-02 17:14:26,607 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-02 17:50:59,834 - INFO - Use pytorch device_name: cpu
+2025-08-02 17:50:59,836 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-02 17:51:01,521 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-08-02 17:51:01,692 - INFO - RAG system initialized successfully
+2025-08-02 17:52:06,378 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-02 17:52:49,676 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2025-08-02 17:52:58,453 - ERROR - Unexpected error: 
